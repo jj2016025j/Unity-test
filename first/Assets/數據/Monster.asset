@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b5b48e1325db649aef7b3eb932c606, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  objectType: 0
+  objectState: 0
+  objcetName: "\u602A\u72691"
+  maxHealth: 1000
+  currentMaxHealth: 10
+  currentHealth: 10
+  baseHealthRestore: 0.05
+  currentHealthRestore: 0.05
+  baseDefense: 500
+  currentDefense: 5
+  deadTime: 5
+  currentDeadTime: 0
+  baseDamage: 5
+  currentDamage: 5
+  attackRange: 2
+  skillRange: 5
+  coolDown: 0.5
+  criticalMultiplier: 1.8
+  criticalChance: 0.3
+  "\u6230\u9B25\u72C0\u614B": 0
+  "\u812B\u96E2\u6230\u9B25\u6642\u9593": 5
+  baseSpeed: 70
+  currentSpeed: 70
+  luck: 0
+  money: 500
+  bagData: {fileID: 0}

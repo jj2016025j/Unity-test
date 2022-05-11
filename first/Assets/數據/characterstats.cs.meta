@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3128acf288de08142a004852c06d620d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CharacterData: {fileID: 11400000, guid: 6092bcdd162b1aa40b8cff7bbec99e74, type: 2}
+  - objectTypeText: {instanceID: 0}
+  - objcetNameText: {instanceID: 0}
+  - objectStateText: {instanceID: 0}
+  - currentHealthText: {instanceID: 0}
+  - currentHealthRestoreText: {instanceID: 0}
+  - currentDefenceText: {instanceID: 0}
+  - currentDamageText: {instanceID: 0}
+  - criticalchanceText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
